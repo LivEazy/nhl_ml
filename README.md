@@ -18,7 +18,7 @@ Also the .gitignore file is set to hide that file and .pyc files which are creat
 2. commit files
 3. push files
 
-`git add -a` -> adds all files to be committed
+`git add -A` -> adds all files to be committed
 
 `git commit -m` -> commits files with message
 
