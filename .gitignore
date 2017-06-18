@@ -1,3 +1,7 @@
 api_access.py
 
 *.pyc
+
+results/
+
+playerlogoutput
