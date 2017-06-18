@@ -1,7 +1,7 @@
 from ohmysportsfeedspy import MySportsFeeds
 from api_access import username, password
 import json
-from playerlog_fns import playerlog_apipull, data
+from playerlog_fns import playerlog_apipull
 
 Data_query = MySportsFeeds('1.0',verbose=True)
 Data_query.authenticate(username, password)
