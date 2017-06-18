@@ -1,1380 +1,1383 @@
 [
-  {
-    "player": {
-      "game32651": {
-        "time": "7:00PM",
-        "team": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "awayTeam": {
-          "City": "San Jose",
-          "ID": "26",
-          "Abbreviation": "SJS",
-          "Name": "Sharks"
-        },
-        "location": "Nationwide Arena",
-        "id": "32651",
-        "date": "2016-10-15",
-        "homeTeam": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "1"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "0"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "2"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "0"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "50.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "1"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "1"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "0"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
+    {
+        "player": {
+        game: [
+        
+        ]
+            "game32651": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "50.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "2",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "team": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "awayTeam": {
+                    "Abbreviation": "SJS",
+                    "City": "San Jose",
+                    "ID": "26",
+                    "Name": "Sharks"
+                },
+                "location": "Nationwide Arena",
+                "time": "7:00PM",
+                "date": "2016-10-15",
+                "id": "32651"
+            },
+            "FirstName": "Josh",
+            "LastName": "Anderson",
+            "game32690": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "050.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "2",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "0.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "3",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "team": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "awayTeam": {
+                    "Abbreviation": "CHI",
+                    "City": "Chicago",
+                    "ID": "20",
+                    "Name": "Blackhawks"
+                },
+                "location": "Nationwide Arena",
+                "time": "7:00PM",
+                "date": "2016-10-21",
+                "id": "32690"
+            },
+            "JerseyNumber": "34",
+            "game32719": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "2",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "0.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "1",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "LAK",
+                    "City": "Los Angeles",
+                    "ID": "28",
+                    "Name": "Kings"
+                },
+                "team": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "awayTeam": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "location": "Staples Center",
+                "time": "10:30PM",
+                "date": "2016-10-25",
+                "id": "32719"
+            },
+            "Position": "RW",
+            "game32636": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "2",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "0.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "1",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "team": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "awayTeam": {
+                    "Abbreviation": "BOS",
+                    "City": "Boston",
+                    "ID": "11",
+                    "Name": "Bruins"
+                },
+                "location": "Nationwide Arena",
+                "time": "7:00PM",
+                "date": "2016-10-13",
+                "id": "32636"
+            },
+            "game32701": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "2",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "50.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "2",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "DAL",
+                    "City": "Dallas",
+                    "ID": "27",
+                    "Name": "Stars"
+                },
+                "team": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "awayTeam": {
+                    "Abbreviation": "CBJ",
+                    "City": "Columbus",
+                    "ID": "19",
+                    "Name": "Blue Jackets"
+                },
+                "location": "American Airlines Center",
+                "time": "8:00PM",
+                "date": "2016-10-22",
+                "id": "32701"
+            },
+            "ID": "5513"
         }
-      },
-      "game32636": {
-        "time": "7:00PM",
-        "team": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "awayTeam": {
-          "City": "Boston",
-          "ID": "11",
-          "Abbreviation": "BOS",
-          "Name": "Bruins"
-        },
-        "location": "Nationwide Arena",
-        "id": "32636",
-        "date": "2016-10-13",
-        "homeTeam": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "0"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "2"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "0"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "1"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "0.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "0"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "0"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "0"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
+    },
+    {
+        "player": {
+            "game32663": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "-1",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "5",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "0.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "2",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "1",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "team": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "awayTeam": {
+                    "Abbreviation": "OTT",
+                    "City": "Ottawa",
+                    "ID": "13",
+                    "Name": "Senators"
+                },
+                "location": "Joe Louis Arena",
+                "time": "7:30PM",
+                "date": "2016-10-17",
+                "id": "32663"
+            },
+            "FirstName": "Justin",
+            "game32676": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "-1",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "0.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "4",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "NYR",
+                    "City": "New York",
+                    "ID": "9",
+                    "Name": "Rangers"
+                },
+                "team": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "awayTeam": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "location": "Madison Square Gardens",
+                "time": "8:00PM",
+                "date": "2016-10-19",
+                "id": "32676"
+            },
+            "LastName": "Abdelkader",
+            "game32691": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "2",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "50.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "1",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "2",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "1",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "team": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "awayTeam": {
+                    "Abbreviation": "NSH",
+                    "City": "Nashville",
+                    "ID": "18",
+                    "Name": "Predators"
+                },
+                "location": "Joe Louis Arena",
+                "time": "7:30PM",
+                "date": "2016-10-21",
+                "id": "32691"
+            },
+            "JerseyNumber": "8",
+            "game32648": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "-1",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "0.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "FLO",
+                    "City": "Florida",
+                    "ID": "4",
+                    "Name": "Panthers"
+                },
+                "team": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "awayTeam": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "location": "BB and T Center",
+                "time": "7:00PM",
+                "date": "2016-10-15",
+                "id": "32648"
+            },
+            "Position": "LW",
+            "game32637": {
+                "stats": {
+                    "PlusMinus": {
+                        "@category": "Skating",
+                        "#text": "1",
+                        "@abbreviation": "+/-"
+                    },
+                    "HatTricks": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Hat"
+                    },
+                    "FaceoffPercent": {
+                        "@category": "Skating",
+                        "#text": "000.0",
+                        "@abbreviation": "F/O %"
+                    },
+                    "GameTyingGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GTG"
+                    },
+                    "PowerplayAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPA"
+                    },
+                    "ShorthandedAssists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHA"
+                    },
+                    "FaceoffWins": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O W"
+                    },
+                    "PowerplayPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPPts"
+                    },
+                    "PowerplayGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "PPG"
+                    },
+                    "PenaltyMinutes": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "PIM"
+                    },
+                    "ShorthandedGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHG"
+                    },
+                    "FaceoffLosses": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "F/O L"
+                    },
+                    "Assists": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "A"
+                    },
+                    "Goals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "G"
+                    },
+                    "Faceoffs": {
+                        "@category": "Skating",
+                        "#text": "0",
+                        "@abbreviation": "FO"
+                    },
+                    "ShotPercentage": {
+                        "@category": "Skating",
+                        "#text": "0.0",
+                        "@abbreviation": "Sh%"
+                    },
+                    "Hits": {
+                        "@category": "Skating",
+                        "#text": "6",
+                        "@abbreviation": "Ht"
+                    },
+                    "Points": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "Pts"
+                    },
+                    "Shots": {
+                        "@category": "Skating",
+                        "#text": "2",
+                        "@abbreviation": "Sh"
+                    },
+                    "Penalties": {
+                        "@category": "Penalties",
+                        "#text": "0",
+                        "@abbreviation": "Pn"
+                    },
+                    "ShorthandedPoints": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "SHPts"
+                    },
+                    "GameWinningGoals": {
+                        "@category": "Scoring",
+                        "#text": "0",
+                        "@abbreviation": "GWG"
+                    }
+                },
+                "homeTeam": {
+                    "Abbreviation": "TBL",
+                    "City": "Tampa Bay",
+                    "ID": "1",
+                    "Name": "Lightning"
+                },
+                "team": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "awayTeam": {
+                    "Abbreviation": "DET",
+                    "City": "Detroit",
+                    "ID": "16",
+                    "Name": "Red Wings"
+                },
+                "location": "Amalie Arena",
+                "time": "7:30PM",
+                "date": "2016-10-13",
+                "id": "32637"
+            },
+            "ID": "4419"
         }
-      },
-      "LastName": "Anderson",
-      "game32690": {
-        "time": "7:00PM",
-        "team": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "awayTeam": {
-          "City": "Chicago",
-          "ID": "20",
-          "Abbreviation": "CHI",
-          "Name": "Blackhawks"
-        },
-        "location": "Nationwide Arena",
-        "id": "32690",
-        "date": "2016-10-21",
-        "homeTeam": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "2"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "0"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "1"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "0"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "3"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "0"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "0.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "0"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "050.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "0"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "1"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "1"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
-        }
-      },
-      "ID": "5513",
-      "FirstName": "Josh",
-      "JerseyNumber": "34",
-      "game32719": {
-        "time": "10:30PM",
-        "team": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "awayTeam": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "location": "Staples Center",
-        "id": "32719",
-        "date": "2016-10-25",
-        "homeTeam": {
-          "City": "Los Angeles",
-          "ID": "28",
-          "Abbreviation": "LAK",
-          "Name": "Kings"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "0"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "2"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "1"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "1"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "0.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "0"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "0"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "1"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
-        }
-      },
-      "Position": "RW",
-      "game32701": {
-        "time": "8:00PM",
-        "team": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "awayTeam": {
-          "City": "Columbus",
-          "ID": "19",
-          "Abbreviation": "CBJ",
-          "Name": "Blue Jackets"
-        },
-        "location": "American Airlines Center",
-        "id": "32701",
-        "date": "2016-10-22",
-        "homeTeam": {
-          "City": "Dallas",
-          "ID": "27",
-          "Abbreviation": "DAL",
-          "Name": "Stars"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "1"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "2"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "1"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "0"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "2"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "0"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "50.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "1"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "1"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "1"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "1"
-          }
-        }
-      }
     }
-  },
-  {
-    "player": {
-      "game32637": {
-        "time": "7:30PM",
-        "team": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "awayTeam": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "location": "Amalie Arena",
-        "id": "32637",
-        "date": "2016-10-13",
-        "homeTeam": {
-          "City": "Tampa Bay",
-          "ID": "1",
-          "Abbreviation": "TBL",
-          "Name": "Lightning"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "1"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "0"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "2"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "0"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "0.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "0"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "0"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "6"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
-        }
-      },
-      "LastName": "Abdelkader",
-      "game32663": {
-        "time": "7:30PM",
-        "team": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "awayTeam": {
-          "City": "Ottawa",
-          "ID": "13",
-          "Abbreviation": "OTT",
-          "Name": "Senators"
-        },
-        "location": "Joe Louis Arena",
-        "id": "32663",
-        "date": "2016-10-17",
-        "homeTeam": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "-1"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "5"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "0"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "1"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "0.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "0"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "0"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "2"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
-        }
-      },
-      "ID": "4419",
-      "FirstName": "Justin",
-      "JerseyNumber": "8",
-      "game32691": {
-        "time": "7:30PM",
-        "team": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "awayTeam": {
-          "City": "Nashville",
-          "ID": "18",
-          "Abbreviation": "NSH",
-          "Name": "Predators"
-        },
-        "location": "Joe Louis Arena",
-        "id": "32691",
-        "date": "2016-10-21",
-        "homeTeam": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "0"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "2"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "1"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "1"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "2"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "1"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "50.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "1"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "1"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "1"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
-        }
-      },
-      "game32676": {
-        "time": "8:00PM",
-        "team": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "awayTeam": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "location": "Madison Square Gardens",
-        "id": "32676",
-        "date": "2016-10-19",
-        "homeTeam": {
-          "City": "New York",
-          "ID": "9",
-          "Abbreviation": "NYR",
-          "Name": "Rangers"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "-1"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "0"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "0"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "0"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "0.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "0"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "0"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "4"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
-        }
-      },
-      "Position": "LW",
-      "game32648": {
-        "time": "7:00PM",
-        "team": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "awayTeam": {
-          "City": "Detroit",
-          "ID": "16",
-          "Abbreviation": "DET",
-          "Name": "Red Wings"
-        },
-        "location": "BB and T Center",
-        "id": "32648",
-        "date": "2016-10-15",
-        "homeTeam": {
-          "City": "Florida",
-          "ID": "4",
-          "Abbreviation": "FLO",
-          "Name": "Panthers"
-        },
-        "stats": {
-          "Assists": {
-            "@category": "Scoring",
-            "@abbreviation": "A",
-            "#text": "0"
-          },
-          "Faceoffs": {
-            "@category": "Skating",
-            "@abbreviation": "FO",
-            "#text": "0"
-          },
-          "PlusMinus": {
-            "@category": "Skating",
-            "@abbreviation": "+/-",
-            "#text": "-1"
-          },
-          "FaceoffLosses": {
-            "@category": "Skating",
-            "@abbreviation": "F/O L",
-            "#text": "0"
-          },
-          "PenaltyMinutes": {
-            "@category": "Penalties",
-            "@abbreviation": "PIM",
-            "#text": "0"
-          },
-          "ShorthandedPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "SHPts",
-            "#text": "0"
-          },
-          "ShorthandedAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "SHA",
-            "#text": "0"
-          },
-          "PowerplayGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "PPG",
-            "#text": "0"
-          },
-          "GameTyingGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GTG",
-            "#text": "0"
-          },
-          "PowerplayPoints": {
-            "@category": "Scoring",
-            "@abbreviation": "PPPts",
-            "#text": "0"
-          },
-          "Shots": {
-            "@category": "Skating",
-            "@abbreviation": "Sh",
-            "#text": "1"
-          },
-          "Penalties": {
-            "@category": "Penalties",
-            "@abbreviation": "Pn",
-            "#text": "0"
-          },
-          "PowerplayAssists": {
-            "@category": "Scoring",
-            "@abbreviation": "PPA",
-            "#text": "0"
-          },
-          "ShotPercentage": {
-            "@category": "Skating",
-            "@abbreviation": "Sh%",
-            "#text": "0.0"
-          },
-          "Points": {
-            "@category": "Scoring",
-            "@abbreviation": "Pts",
-            "#text": "0"
-          },
-          "FaceoffPercent": {
-            "@category": "Skating",
-            "@abbreviation": "F/O %",
-            "#text": "000.0"
-          },
-          "Goals": {
-            "@category": "Scoring",
-            "@abbreviation": "G",
-            "#text": "0"
-          },
-          "ShorthandedGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "SHG",
-            "#text": "0"
-          },
-          "Hits": {
-            "@category": "Skating",
-            "@abbreviation": "Ht",
-            "#text": "1"
-          },
-          "HatTricks": {
-            "@category": "Scoring",
-            "@abbreviation": "Hat",
-            "#text": "0"
-          },
-          "FaceoffWins": {
-            "@category": "Skating",
-            "@abbreviation": "F/O W",
-            "#text": "0"
-          },
-          "GameWinningGoals": {
-            "@category": "Scoring",
-            "@abbreviation": "GWG",
-            "#text": "0"
-          }
-        }
-      }
-    }
-  }
 ]
